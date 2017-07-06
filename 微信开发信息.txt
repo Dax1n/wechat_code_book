@@ -1,0 +1,80 @@
+AppID(应用ID)wx3e9e182ebb491c3e
+
+
+AppSecret   ：35b64c449e410dda32d68bc4fd0c410c
+
+EncodingAESKey   xc5PyFXxUSSqAFbVmf9h3t8cfMApUx5DPq5nADvlrqm
+
+
+自定义token：Ub8N8MFbQniZALMveoUO6
+
+qcczleodaxin
+
+
+
+基础支持: 获取access_token接口 /token
+请求地址：
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx3e9e182ebb491c3e&secret=35b64c449e410dda32d68bc4fd0c410c
+返回结果:
+200	OK
+Connection: close
+Date: Fri, 17 Mar 2017 05:48:57 GMT
+Content-Type: application/json; encoding=utf-8
+Content-Length: 175
+{
+    "access_token": "M8-ToFZkxoaaNTibdFDlNaZo_T_0w9Ub8N8MFbQniZALMveoUO6PQvqOxUeN2iNLvo2lGqcLREpjAiatpZQF1DztgEXmqZCxMSNdc2pItZyGIn6G-ZxVn8ouGTpvI6eZLKTcADAZYH", 
+    "expires_in": 7200
+}
+提示:
+Request successful
+
+自定义token：Ub8N8MFbQniZALMveoUO6
+
+M8-ToFZkxoaaNTibdFDlNaZo_T_0w9Ub8N8MFbQniZALMveoUO6PQvqOxUeN2iNLvo2lGqcLREpjAiatpZQF1DztgEXmqZCxMSNdc2pItZyGIn6G-ZxVn8ouGTpvI6eZLKTcADAZYH 
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	SKY_iniyial
+	
+	
+	
+	
+	
+	
+	
+1489735044408	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
